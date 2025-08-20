@@ -1,2 +1,1 @@
-# verizondigital/kubectl-flame:v0.2.4-python
-nginx
+williamguozi/log-pilot-filebeat:containerd
