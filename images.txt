@@ -1,1 +1,1 @@
-williamguozi/log-pilot-filebeat:containerd
+log-pilot-filebeat:containerd
